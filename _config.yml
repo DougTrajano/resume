@@ -1,5 +1,5 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: DougTrajano/dougresume
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
@@ -44,7 +44,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/doug_avatar.png
+about_profile_image: images/doug_profile.png
 about_content: | # this will include new lines to allow paragraphs
   Data Scientist with two years of experience developing amazing <mark>Data Products</mark>. Implementing NLP models and recommendations for customer service.
 
