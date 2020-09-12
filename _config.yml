@@ -1,0 +1,121 @@
+# Site
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Douglas Trajano
+title: Data Scientist
+email: douglas.trajano@outlook.com
+phone: +55 51 981988339
+#website: Your website (eg. https://google.com)(optional)
+
+# Dark Mode (true/false/never)
+darkmode: true
+
+# Social links
+#twitter_username: jekyllrb
+github_username:  DougTrajano
+#stackoverflow_username: "00000001"
+#dribbble_username: jekyll
+facebook_username: DougTrajano
+#flickr_username: jekyll
+instagram_username: dougtrajano
+linkedin_username: douglas-trajano
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#googleplus_username: +jekyll
+#orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+additional_links:
+- title: WhatsApp
+  icon: fab fa-whatsapp
+  url: https://wa.me/5551981988339
+# - title: another link
+#   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: images/doug_avatar.png
+about_content: | # this will include new lines to allow paragraphs
+  Data Scientist with two years of experience developing amazing <mark>Data Products</mark>. Implementing NLP models and recommendations for customer service.
+
+  As a member of the Data Science chapter, I helped define several data science processes used by data scientists across Sicredi.
+
+  In my free time, I'm a <mark>CS:GO</mark> and <mark>Age of Empires</mark> player. :)
+
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# More Section
+more_title: Certifications #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+  - AWS Certified Machine Learning - Specialty <mark>AWS - Amazon Web Services</mark>
+  - Certified Associate in Project Management (CAPM)® <mark>PMI - Project Management Institute</mark>
+  - ITIL® Foundation Certificate in IT Service Management <mark>EXIN</mark>
+  - MCP (70-687) - Configuring Windows 8.1 <mark>Microsoft</mark>
+  - Scrum Fundamentals Certified <mark>SCRUMstudy</mark>
+  - Social Media and Community (SMaC) Certification <mark>Dell</mark>
+
+  ### Courses
+
+  **Relevant Courses**
+  - Deep Learning Specialization - [deeplearning.ai](https://www.deeplearning.ai/) <mark>Coursera</mark>
+  - Machine Learning - [Stanford University](https://www.stanford.edu/) <mark>Coursera</mark>
+  - Probability and Statistics: To p or not to p? - [University of London](https://london.ac.uk/) <mark>Coursera</mark>
+  - Data Science Math Skills - [Duke University](https://duke.edu/) <mark>Coursera</mark>
+  - Creative Thinking: Techniques and Tools for Success - [Imperial College London](https://www.imperial.ac.uk/) <mark>Coursera</mark>
+  - Successful Negotiation: Essential Strategies and Skills - [University of Michigan](https://umich.edu/) <mark>Coursera</mark>
+
+  **Others Courses**
+  - eXtreme Programming (XP) <mark>TreinaWeb</mark>
+  - Design Thinking <mark>TreinaWeb</mark>
+  - Tableau for Data Scientists <mark>Udemy</mark>
+  - Power BI <mark>Udemy</mark>
+  - Python for Data Science and Machine Learning <mark>Udemy</mark>
+  - REST APIs with Python and Flask <mark>Udemy</mark>
+  - MongoDB Developer <mark>TreinaWeb</mark>
+  - MySQL DBA <mark>TreinaWeb</mark>
+  - MySQL Developer <mark>TreinaWeb</mark>
+  - Oracle Developer <mark>TreinaWeb</mark>
+
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]

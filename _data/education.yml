@@ -1,0 +1,31 @@
+- layout: left
+  name: Udacity
+  dates: (2020)
+  qualification: Nanodegree, Deep Reinforcement Learning
+  quote: >
+   In Collaboration With: Unity and NVIDIA Deep Learning Institute
+  description: | # this will include new lines to allow paragraphs
+    Skills Covered
+    - Reinforcement Learning
+    - Neural Networks
+    - PyTorch
+    - Deep Q-Networks (DQN)
+    - Deep Deterministic Policy Gradients (DDPG)
+
+- layout: left
+  name: Udacity
+  dates: (2019)
+  qualification: Nanodegree, Data Scientist
+  quote: >
+    In Collaboration With: Bertelsmann, Figure Eight, IBM Watson, Insight, Kaggle, Starbucks
+  description: | # this will include new lines to allow paragraphs
+    Skills Covered
+    - Machine Learning
+    - Deep Learning
+    - Software Engineering
+    - Applied Data Science
+  
+- layout: left
+  name: Estácio
+  dates: (2016 - 2019)
+  qualification: BSc, Information Systems

@@ -1,0 +1,43 @@
+# Sicredi
+- layout: left
+  company: Sicredi
+  link: www.sicredi.com.br
+  job_title: Cognitive Analyst
+  dates: (January 2019 - present)
+  quote: >
+   Financial Services
+  description: | # this will include new lines to allow paragraphs
+    Development of cognitive models using machine learning and data science for natural language processing (NLP), focusing on facilitating and improving the curation process in Sicredi's service channels.
+  
+# Tivit
+- layout: left
+  company: Tivit
+  link: www.tivit.com.br
+  job_title: IT Process Analyst
+  dates: (July 2018 - January 2019)
+  quote: >
+   Technology
+  description: | # this will include new lines to allow paragraphs
+    Chatbot developer located on Sicredi's project. Development of conversational flows and Python scripts to improve chatbot quality.
+
+# Dell
+- layout: left
+  company: Dell
+  link: www.dell.com
+  job_title: IT Tech Support Specialist
+  dates: (April 2015 - July 2018)
+  quote: >
+   Technology
+  description: | # this will include new lines to allow paragraphs
+    I worked providing technical support on social media (Facebook, Twitter, Google+, etc.). I'm the focal point for the Social CRM (Sprinklr) for Latin America, I work with projects to facilitate and improve the service offered by social media agents.
+
+# Dell
+- layout: left
+  company: Dell
+  link: www.dell.com
+  job_title: IT Tech Support Associate
+  dates: (July 2012 - March 2015)
+  quote: >
+   Technology
+  description: | # this will include new lines to allow paragraphs
+    I worked providing technical support on social media (Facebook, Twitter, Google+, etc.). I'm the focal point for the Social CRM (Sprinklr) for Latin America, I work with projects to facilitate and improve the service offered by social media agents.
