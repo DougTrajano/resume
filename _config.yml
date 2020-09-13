@@ -46,9 +46,9 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/doug_profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Data Scientist with two years of experience developing amazing <mark>Data Products</mark>. Implementing NLP models and recommendations for customer service.
+  Data Scientist with two years of experience developing amazing <mark>Data Products</mark> and researches. Implementing NLP models, recommendation models, analysis, experiments and A/B tests for customer service.
 
-  As a member of the Data Science chapter, I helped define several data science processes used by data scientists across Sicredi.
+  As member of the Data Science chapter, I helped define several data science processes used by data scientists across Sicredi (eg. Model Cards, documentations, etc.).
 
   In my free time, I'm a <mark>CS:GO</mark> and <mark>Age of Empires</mark> player. :)
 
