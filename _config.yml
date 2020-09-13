@@ -7,6 +7,7 @@ name: Douglas Trajano
 title: Data Scientist
 email: douglas.trajano@outlook.com
 phone: +55 51 981988339
+
 #website: Your website (eg. https://google.com)(optional)
 
 # Dark Mode (true/false/never)
@@ -46,7 +47,9 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/doug_profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Data Scientist with two years of experience developing amazing <mark>Data Products</mark> and researches. Implementing NLP models, recommendation models, analysis, experiments and A/B tests for customer service.
+  Data Scientist with two years of experience developing amazing <mark>Data Products</mark> and <mark>researches</mark>.
+    
+  Implementing NLP models, recommendation models, analysis, researches, experiments and A/B tests for customer service.
 
   As member of the Data Science chapter, I helped define several data science processes used by data scientists across Sicredi (eg. Model Cards, documentations, etc.).
 
@@ -64,8 +67,8 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: Certifications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  - AWS Certified Machine Learning - Specialty <mark>AWS - Amazon Web Services</mark>
-  - Certified Associate in Project Management (CAPM)® <mark>PMI - Project Management Institute</mark>
+  - AWS Certified Machine Learning - Specialty <mark>AWS</mark>
+  - Certified Associate in Project Management (CAPM)® <mark>PMI</mark>
   - ITIL® Foundation Certificate in IT Service Management <mark>EXIN</mark>
   - MCP (70-687) - Configuring Windows 8.1 <mark>Microsoft</mark>
   - Scrum Fundamentals Certified <mark>SCRUMstudy</mark>
