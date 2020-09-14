@@ -7,7 +7,7 @@
   quote: >
    Financial Services
   description: | # this will include new lines to allow paragraphs
-    Development of cognitive models using machine learning and data science for natural language processing (NLP), focusing on facilitating and improving the curation process in Sicredi's service channels.
+    Design, development and delivery machine learning enabled solutions for customer service and conversational channels.
   
 # Tivit
 - layout: left
@@ -18,7 +18,7 @@
   quote: >
    Technology
   description: | # this will include new lines to allow paragraphs
-    Chatbot developer located on Sicredi's project. Development of conversational flows and Python scripts to improve chatbot quality.
+    Chatbot developer contracted to Sicredi’s project. Development of conversational flows and Python scripts to improve chatbot quality.
 
 # Dell
 - layout: left
@@ -29,15 +29,15 @@
   quote: >
    Technology
   description: | # this will include new lines to allow paragraphs
-    I worked providing technical support on social media (Facebook, Twitter, Google+, etc.). I'm the focal point for the Social CRM (Sprinklr) for Latin America, I work with projects to facilitate and improve the service offered by social media agents.
+    Development and Management of Social CRM (Sprinklr) for social media teams located on Latina America (Costa Rica, Panama and Brazil), working with PM's team on India to delivery new features.
 
 # Dell
 - layout: left
-  company: Dell
-  link: www.dell.com
+#  company: Dell
+#  link: www.dell.com
   job_title: IT Tech Support Associate
   dates: (July 2012 - March 2015)
-  quote: >
-   Technology
+#  quote: >
+#   Technology
   description: | # this will include new lines to allow paragraphs
-    I worked providing technical support on social media (Facebook, Twitter, Google+, etc.). I'm the focal point for the Social CRM (Sprinklr) for Latin America, I work with projects to facilitate and improve the service offered by social media agents.
+  Technical support for Dell products on social media (Facebook, Twitter, Google+, etc.). Crisis management for executive escalations involving clients with great public influence.
