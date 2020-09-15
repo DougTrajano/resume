@@ -47,7 +47,9 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/doug_profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Data Scientist with two years of experience developing amazing <mark>Data Products</mark> and <mark>researches</mark>.
+  Hi! I'm Douglas, 26 years old and I live in Canoas, RS, Brazil.
+
+  I'm a data scientist with two years of experience developing amazing <mark>Data Products</mark> and <mark>researches</mark>.
     
   Implementing NLP models, recommendation models, analysis, researches, experiments and A/B tests for customer service.
 
