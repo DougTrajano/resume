@@ -7,7 +7,7 @@
   quote: >
    Technology
   description: | # this will include new lines to allow paragraphs
-    Project-based work to develop and support data products enabled by machine learning.
+    Project-based work to development and support machine learning enabled solutions for companies in different markets and contexts.
 
 # Sicredi
 - layout: left
@@ -29,7 +29,7 @@
   quote: >
    Technology
   description: | # this will include new lines to allow paragraphs
-    Chatbot developer contracted to Sicredi’s project. Development of conversational flows and Python scripts to improve chatbot quality.
+    Chatbot developer contracted to Sicredi project. Implementation of conversational flows and Python scripts to improve the quality of the chatbot.
 
 # Dell
 - layout: left
@@ -40,7 +40,7 @@
   quote: >
    Technology
   description: | # this will include new lines to allow paragraphs
-    Development and management of Social CRM (Sprinklr) for social media teams located on Latina America (Costa Rica, Panama and Brazil), working with PM's team on India to delivery new features.
+    Development and management of Sprinklr (Social CRM) for Dell's social media teams located in Latin America (Brazil, Costa Rica and Panama).
 
 # Dell
 - layout: left
@@ -51,4 +51,4 @@
 #  quote: >
 #   Technology
   description: | # this will include new lines to allow paragraphs
-    Technical support for Dell products on social media (Facebook, Twitter, Google+, etc.). Crisis management for executive escalations involving customers with public influence.
+    Technical support for Dell products, customer care for executive escalations with high exposure of brand image.
