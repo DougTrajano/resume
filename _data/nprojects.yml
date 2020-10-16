@@ -1,4 +1,5 @@
 # Project template
+## The correct name of this file is projects.yml
 - layout: left
   name: anallyticabot
   link: https://pypi.org/project/anallyticabot/
