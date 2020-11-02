@@ -1,0 +1,11 @@
+# Project template
+- layout: left
+  name: anallyticabot
+  link: https://anallyticabot.herokuapp.com/
+  github: https://github.com/DougTrajano/anallyticabot
+  quote: >
+    Data App with advanced analytics to improve the quality of chatbots.
+  description: | # this will include new lines to allow paragraphs
+    **Anallyticabot** is a platform that provides advanced analytics to help you improve your chatbot.
+
+    Identify and improve your virtual assistant's experiences easily and quickly. Anallyticabot is free to use and is an open source project!
