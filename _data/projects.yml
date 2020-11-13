@@ -2,7 +2,7 @@
 - layout: left
   name: Anallyticabot
   link: https://anallyticabot.herokuapp.com/
-  github: https://github.com/DougTrajano/anallyticabot
+  github: DougTrajano/anallyticabot
   quote: >
     Data App with advanced analytics to improve the quality of chatbots.
   description: | # this will include new lines to allow paragraphs
