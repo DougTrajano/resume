@@ -4,7 +4,7 @@ repository: DougTrajano/dougresume
 
 # Personal info
 name: Douglas Trajano
-title: Data Scientist
+title: Data Scientist | AWS ML & Azure DS Certified
 email: douglas.trajano@outlook.com
 phone: +55 51 981988339
 website: https://dougtrajano.github.io/resume/
@@ -15,7 +15,7 @@ darkmode: true
 # Social links
 #twitter_username: jekyllrb
 github_username:  DougTrajano
-#stackoverflow_username: "00000001"
+stackoverflow_username: "8803008"
 #dribbble_username: jekyll
 facebook_username: DougTrajano
 #flickr_username: jekyll
@@ -32,6 +32,9 @@ additional_links:
 - title: WhatsApp
   icon: fab fa-whatsapp
   url: https://wa.me/5551981988339
+- title: Kaggle
+  icon: fab fa-kaggle
+  url: https://www.kaggle.com/dougtrajano
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -68,6 +71,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: Certifications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
+  - Microsoft Certified: Azure Data Scientist Asccoaite <mark>Azure Cloud</mark>
   - AWS Certified Machine Learning - Specialty <mark>AWS</mark>
   - Certified Associate in Project Management (CAPM)® <mark>PMI</mark>
   - ITIL® Foundation Certificate in IT Service Management <mark>EXIN</mark>
