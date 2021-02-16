@@ -58,7 +58,7 @@ about_content: | # this will include new lines to allow paragraphs
     
   Implementing NLP models, recommendation models, analysis, researches, experiments and A/B tests for customer service.
 
-  As member of the Data Science chapter, I helped define several data science processes used by data scientists across Sicredi (eg. Model Cards, documentations, etc.).
+  As member of the Data Science chapter, I help define data science processes used by data scientists across Sicredi (eg. Model Cards, MLOps, docs, etc.) and I also develop our internal Python package to integrate with MLOps tools and share data science assets.
 
   In my free time, I'm a <mark>CS:GO</mark> and <mark>Age of Empires</mark> player. :)
 
@@ -198,7 +198,7 @@ content:
       - Oracle Developer <mark>TreinaWeb</mark>
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
