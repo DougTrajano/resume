@@ -136,7 +136,7 @@ content:
       - layout: top-left
         title: Udacity
         sub_title: Nanodegree, Deep Reinforcement Learning
-        caption: (2020)
+        caption: 2020
         quote: >
           In Collaboration With: Unity and NVIDIA Deep Learning Institute
         description: | # this will include new lines to allow paragraphs
@@ -150,7 +150,7 @@ content:
       - layout: top-left
         title: Udacity
         sub_title: Nanodegree, Data Scientist
-        caption: (2019)
+        caption: 2019
         quote: >
           In Collaboration With: Bertelsmann, Figure Eight, IBM Watson, Insight, Kaggle, Starbucks
         description: | # this will include new lines to allow paragraphs
@@ -163,7 +163,7 @@ content:
       - layout: top-left
         title: Estácio
         sub_title: BSc, Information Systems
-        caption: (2016 - 2019)
+        caption: 2016 - 2019
 
   - title: Certifications
     layout: text
