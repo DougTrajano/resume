@@ -116,7 +116,7 @@ content:
         title: Dell
         sub_title: IT Tech Support Specialist
         caption: April 2015 - July 2018
-        link: www.dell.com
+        #link: www.dell.com
         quote: >
           Technology
         description: | # this will include new lines to allow paragraphs
@@ -125,7 +125,7 @@ content:
         #title: Dell
         sub_title: IT Tech Support Associate
         caption: July 2012 - March 2015
-        #link: www.dell.com
+        link: www.dell.com
         quote: >
           Technology
         description: | # this will include new lines to allow paragraphs
