@@ -122,10 +122,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           Development and management of Sprinklr (Social CRM) for Dell's social media teams located in Latin America (Brazil, Costa Rica and Panama).
       - layout: left
-        title: Dell
+        #title: Dell
         sub_title: IT Tech Support Associate
         caption: July 2012 - March 2015
-        link: www.dell.com
+        #link: www.dell.com
         quote: >
           Technology
         description: | # this will include new lines to allow paragraphs
@@ -133,7 +133,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: top-left
         title: Udacity
         sub_title: Nanodegree, Deep Reinforcement Learning
         caption: (2020)
@@ -147,7 +147,7 @@ content:
           - Deep Q-Networks (DQN)
           - Deep Deterministic Policy Gradients (DDPG)
 
-      - layout: top-right
+      - layout: top-left
         title: Udacity
         sub_title: Nanodegree, Data Scientist
         caption: (2019)
@@ -160,7 +160,7 @@ content:
           - Software Engineering
           - Applied Data Science
 
-      - layout: top-right
+      - layout: top-left
         title: Estácio
         sub_title: BSc, Information Systems
         caption: (2016 - 2019)
