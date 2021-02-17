@@ -54,11 +54,11 @@ about_profile_image: images/doug_profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi! I'm Douglas, 27 years old and I live in Canoas, RS, Brazil.
 
-  I'm a data scientist with two years of experience developing amazing <mark>Data Products</mark> and <mark>researches</mark>.
+  I'm a data scientist with three years of experience developing amazing <mark>Data Products</mark> and <mark>researches</mark>.
     
-  Implementing NLP models, recommendation models, analysis, researches, experiments and A/B tests for customer service.
+  Implementing NLP models, recommendation models, analysis, researches, experiments and A/B tests in different business contexts.
 
-  As member of the Data Science chapter I help define data science processes used by data scientists across Sicredi (eg. Model Cards, MLOps, docs, etc.) and I also develop our internal Python package to integrate with MLOps tools and share data science assets.
+  As member of the Data Science chapter I help define data science processes across Sicredi (Model Cards, MLOps, docs, etc.) and I also develop a internal Python package to integrate with MLOps tools and share data science assets.
 
   In my free time, I'm a <mark>CS:GO</mark> and <mark>Age of Empires</mark> player. :)
 
