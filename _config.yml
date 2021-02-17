@@ -133,7 +133,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-left
+      - layout: left
         title: Udacity
         sub_title: Nanodegree, Deep Reinforcement Learning
         caption: 2020
@@ -147,7 +147,7 @@ content:
           - Deep Q-Networks (DQN)
           - Deep Deterministic Policy Gradients (DDPG)
 
-      - layout: top-left
+      - layout: left
         title: Udacity
         sub_title: Nanodegree, Data Scientist
         caption: 2019
@@ -160,7 +160,7 @@ content:
           - Software Engineering
           - Applied Data Science
 
-      - layout: top-left
+      - layout: left
         title: Estácio
         sub_title: BSc, Information Systems
         caption: 2016 - 2019
