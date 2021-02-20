@@ -82,6 +82,7 @@ content:
           Identify and improve your virtual assistant's experiences easily and quickly.
     
           Anallyticabot is free to use and is an open source project!
+
   - title: Experience
     layout: list
     content:
@@ -128,14 +129,8 @@ content:
         link: www.dell.com
         description: | # this will include new lines to allow paragraphs
           Technical support for Dell products, customer care for executive escalations with high exposure of brand image.
+
   - title: Education
-    layout: list
-    content:
-      - layout: left
-        title: Estácio
-        sub_title: BSc, Information Systems
-        caption: 2016 - 2019
-  - title: Featured Courses
     layout: list
     content:
       - layout: left
@@ -164,6 +159,12 @@ content:
           - Deep Learning
           - Software Engineering
           - Applied Data Science
+
+      - layout: left
+        title: Estácio
+        sub_title: BSc, Information Systems
+        caption: 2016 - 2019
+  
   - title: Certifications
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -176,7 +177,7 @@ content:
   - title: Courses
     layout: text
     content: | # this will include new lines to allow paragraphs
-      **Relevant Courses**
+      **Featured Courses**
       - Deep Learning Specialization - [deeplearning.ai](https://www.deeplearning.ai/) <mark>Coursera</mark>
       - Machine Learning - [Stanford University](https://www.stanford.edu/) <mark>Coursera</mark>
       - Probability and Statistics: To p or not to p? - [University of London](https://london.ac.uk/) <mark>Coursera</mark>
