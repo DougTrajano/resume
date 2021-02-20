@@ -207,7 +207,7 @@ footer_show_references: false
 
 sass:
   sass_dir: _sass
-  style: expanded
+  style: compressed
 
 plugins:
  - jekyll-seo-tag
