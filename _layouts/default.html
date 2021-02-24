@@ -18,7 +18,7 @@
 
       {%- if site.version == 2 -%}
         {% for section in site.content %}
-          <div class="container-fluid {{ section.layout }}-container">
+          <div class="container {{ section.layout }}-container">
             <h3>{{ section.title }}</h3>
             {% include {{ section.layout | prepend: "section-" | append: ".html" }} content=section.content %}
           </div>
