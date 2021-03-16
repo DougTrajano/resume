@@ -170,7 +170,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Skills Covered
           - Neural Networks and Deep Learning
-          - Hyperparametertuning, Regularization andOptimization
+          - Hyperparameter tuning, regularization and optimization
           - Structuring Machine LearningProjects
           - Convolutional Neural Networks
           - Sequence Models
