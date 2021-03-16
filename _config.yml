@@ -134,6 +134,20 @@ content:
     layout: list
     content:
       - layout: left
+        title: PUCRS
+        sub_title: MSc, Computer Science
+        caption: 2021 - 2023
+        quote: >
+          Focus on Artificial Intelligence
+      - layout: left
+        title: Estácio
+        sub_title: BSc, Information Systems
+        caption: 2016 - 2019
+  
+  - title: Featured Courses
+    layout: list
+    content:
+      - layout: left
         title: Udacity
         sub_title: Nanodegree, Deep Reinforcement Learning
         caption: 2020
@@ -148,6 +162,20 @@ content:
           - Deep Deterministic Policy Gradients (DDPG)
 
       - layout: left
+        title: deeplearning.ai
+        sub_title: non-credit Specialization, Deep Learning
+        caption: 2020
+        quote: >
+          by Andrew Ng
+        description: | # this will include new lines to allow paragraphs
+          Skills Covered
+          - Neural Networks and Deep Learning
+          - Hyperparametertuning, Regularization andOptimization
+          - Structuring Machine LearningProjects
+          - Convolutional Neural Networks
+          - Sequence Models
+
+      - layout: left
         title: Udacity
         sub_title: Nanodegree, Data Scientist
         caption: 2019
@@ -160,32 +188,14 @@ content:
           - Software Engineering
           - Applied Data Science
 
-      - layout: left
-        title: Estácio
-        sub_title: BSc, Information Systems
-        caption: 2016 - 2019
-  
-  - title: Certifications
+  - title: Others Courses
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Microsoft Certified: Azure Data Scientist Asccoaite <mark>Azure Cloud</mark>
-      - AWS Certified Machine Learning - Specialty <mark>AWS</mark>
-      - Certified Associate in Project Management (CAPM)® <mark>PMI</mark>
-      - ITIL® Foundation Certificate in IT Service Management <mark>EXIN</mark>
-      - MCP (70-687) - Configuring Windows 8.1 <mark>Microsoft</mark>
-      - Social Media and Community (SMaC) Certification <mark>Dell</mark>
-  - title: Courses
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      **Featured Courses**
-      - Deep Learning Specialization - [deeplearning.ai](https://www.deeplearning.ai/) <mark>Coursera</mark>
       - Machine Learning - [Stanford University](https://www.stanford.edu/) <mark>Coursera</mark>
       - Probability and Statistics: To p or not to p? - [University of London](https://london.ac.uk/) <mark>Coursera</mark>
       - Data Science Math Skills - [Duke University](https://duke.edu/) <mark>Coursera</mark>
       - Creative Thinking: Techniques and Tools for Success - [Imperial College London](https://www.imperial.ac.uk/) <mark>Coursera</mark>
       - Successful Negotiation: Essential Strategies and Skills - [University of Michigan](https://umich.edu/) <mark>Coursera</mark>
-
-      **Others Courses**
       - eXtreme Programming (XP) <mark>TreinaWeb</mark>
       - Design Thinking <mark>TreinaWeb</mark>
       - Tableau for Data Scientists <mark>Udemy</mark>
@@ -196,6 +206,16 @@ content:
       - MySQL DBA <mark>TreinaWeb</mark>
       - MySQL Developer <mark>TreinaWeb</mark>
       - Oracle Developer <mark>TreinaWeb</mark>
+
+  - title: Certifications
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Microsoft Certified: Azure Data Scientist Asccoaite <mark>Azure Cloud</mark>
+      - AWS Certified Machine Learning - Specialty <mark>AWS</mark>
+      - Certified Associate in Project Management (CAPM)® <mark>PMI</mark>
+      - ITIL® Foundation Certificate in IT Service Management <mark>EXIN</mark>
+      - MCP (70-687) - Configuring Windows 8.1 <mark>Microsoft</mark>
+      - Social Media and Community (SMaC) Certification <mark>Dell</mark>
 
 # Footer
 footer_show_references: false
