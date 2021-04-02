@@ -87,6 +87,15 @@ content:
     layout: list
     content:
       - layout: left
+        title: HP Inc
+        sub_title: Data Scientist
+        caption: April 2021 - present
+        link: www.hp.com.br
+        quote: >
+          Technology
+        description: | # this will include new lines to allow paragraphs
+          Design, development and delivery machine learning enabled solutions for HP softwares.
+      - layout: left
         title: Cognitivo.ai
         sub_title: Expert Data Scientist
         caption: August 2020 - present
@@ -98,7 +107,7 @@ content:
       - layout: left
         title: Sicredi
         sub_title: Data Scientist
-        caption: January 2019 - present
+        caption: January 2019 - March 2021
         link: www.sicredi.com.br
         quote: >
           Financial Services
