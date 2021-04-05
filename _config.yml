@@ -94,7 +94,7 @@ content:
         quote: >
           Technology
         description: | # this will include new lines to allow paragraphs
-          Design, development and delivery machine learning enabled solutions for HP softwares.
+          Data Science & AI group in Personal System Software is responsible for delivering a broad range of software capabilities, including generating actionable insights from business data, increasing operational efficiency with automation, and building breakthrough experiences for HP products and services.
       - layout: left
         title: Cognitivo.ai
         sub_title: Expert Data Scientist
@@ -103,7 +103,7 @@ content:
         quote: >
           Technology
         description: | # this will include new lines to allow paragraphs
-          Data Science & AI group in Personal System Software is responsible for delivering a broad range of software capabilities, including generating actionable insights from business data, increasing operational efficiency with automation, and building breakthrough experiences for HP products and services.
+          Project-based work to development and support machine learning enabled solutions for companies in different markets and contexts.
       - layout: left
         title: Sicredi
         sub_title: Data Scientist
