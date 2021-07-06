@@ -55,10 +55,10 @@ about_content: | # this will include new lines to allow paragraphs
   Hi! I'm Douglas, 27 years old and I live in Canoas, RS, Brazil.
 
   I'm a data scientist with three years of experience developing amazing <mark>Data Products</mark> and <mark>researches</mark>.
-    
-  Implementing NLP models, recommendation models, analysis, researches, experiments and A/B tests in different business contexts.
 
-  As member of the Data Science chapter I help define data science processes across Sicredi (Model Cards, MLOps, docs, etc.) and I also develop a internal Python package to integrate with MLOps tools and share data science assets.
+  I've worked on projects such as NLP, recommendation systems, analysis, researches, experiments and A/B tests in different business contexts. I also helped define data science processes, tools and strategies in the companies I've worked in.
+
+  Currently, I'm enrolled in a master's degree in Computer Science from the [pucrs.br](https://www.pucrs.br/).
 
   In my free time, I'm a <mark>CS:GO</mark> and <mark>Age of Empires</mark> player. :)
 
@@ -81,7 +81,7 @@ content:
 
           Identify and improve your virtual assistant's experiences easily and quickly.
     
-          Anallyticabot is free to use and is an open source project!
+          Anallyticabot is free to use and is an open-source project!
 
   - title: Experience
     layout: list
@@ -103,7 +103,7 @@ content:
         quote: >
           Technology
         description: | # this will include new lines to allow paragraphs
-          Project-based work to development and support machine learning enabled solutions for companies in different markets and contexts.
+          Project-based work to develop and support machine learning enabled solutions for companies in different markets and contexts.
       - layout: left
         title: Sicredi
         sub_title: Data Scientist
@@ -137,7 +137,7 @@ content:
         caption: July 2012 - March 2015
         link: www.dell.com
         description: | # this will include new lines to allow paragraphs
-          Technical support for Dell products, customer care for executive escalations with high exposure of brand image.
+          Technical support for Dell products, customer care for executive escalations with high exposure of the brand image.
 
   - title: Education
     layout: list
