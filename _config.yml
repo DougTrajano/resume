@@ -219,7 +219,7 @@ content:
   - title: Certifications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Microsoft Certified: Azure Data Scientist Asccoaite <mark>Azure Cloud</mark>
+      - Microsoft Certified: Azure Data Scientist Associate <mark>Azure Cloud</mark>
       - AWS Certified Machine Learning - Specialty <mark>AWS</mark>
       - Certified Associate in Project Management (CAPM)® <mark>PMI</mark>
       - ITIL® Foundation Certificate in IT Service Management <mark>EXIN</mark>
