@@ -52,9 +52,9 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/doug_profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi! I'm Douglas, 27 years old and I live in Canoas, RS, Brazil.
+  Hi! I'm Douglas, 28 years old and I live in Canoas, RS, Brazil.
 
-  I'm a data scientist with three years of experience developing amazing <mark>Data Products</mark> and <mark>researches</mark>.
+  I'm a data scientist with 4 years of experience developing amazing <mark>Data Products</mark> and <mark>researches</mark>.
 
   I've worked on projects such as NLP, recommendation systems, analysis, researches, experiments and A/B tests in different business contexts. I also helped define data science processes, tools and strategies in the companies I've worked in.
 
