@@ -1,5 +1,5 @@
 # Site
-repository: DougTrajano/dougresume
+repository: DougTrajano/resume
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
@@ -52,13 +52,11 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/doug_profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi! I'm Douglas, 28 years old and I live in Canoas, RS, Brazil.
-
-  I'm a data scientist with 4 years of experience developing amazing <mark>Data Products</mark> and <mark>researches</mark>.
+  Hi! I'm Douglas, a Data Scientist with 5 years of experience developing amazing <mark>Data Products</mark> and <mark>researches</mark>.
 
   I've worked on projects such as MLOps, NLP, recommendation systems, analysis, researches, experiments and A/B tests in different business contexts. I also helped define data science processes, tools and strategies in the companies I've worked in.
 
-  Currently, I'm enrolled in a master's degree in Computer Science from the [pucrs.br](https://www.pucrs.br/).
+  Currently, I'm diving deeper into the field by pursuing a master's degree in Computer Science from [PUCRS](https://www.pucrs.br/), one of the leading universities in Brazil.
 
   In my free time, I'm a <mark>CS:GO</mark> and <mark>Age of Empires</mark> player. :)
 
@@ -94,7 +92,12 @@ content:
         quote: >
           Technology
         description: | # this will include new lines to allow paragraphs
-          Leading data science projects to solve complex business problems or generate actionable insights, providing direction for team activities, and communicating results with stakeholders.
+          Work on all aspects of the design, development, and delivery of data science and analytics projects to solve complex business problems and drive product strategies.
+          
+          - Developed and supported NLP models in the production environment.
+          - Redesigned data pipelines to support proactive data ingestion, introduce data observability and reduce costs (>90% cost reduction).
+          - Developed a DS/ML platform powered by Kubernetes and Istio, where I led the development and integration of the ML components such as JupyterLab, Apache Spark, MLflow, Boxkite, MinIO, Grafana, Redash, etc.
+
       - layout: left
         title: Cognitivo.ai
         sub_title: Expert Data Scientist
