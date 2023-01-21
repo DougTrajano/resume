@@ -107,6 +107,9 @@ content:
           Technology
         description: | # this will include new lines to allow paragraphs
           Project-based work to develop and support machine learning enabled solutions for companies in different markets and contexts.
+          
+          -Developed an NLP Pipeline that classifies legal actions into predefined categories, and adds them to the customer CRM (Salesforce) assigning each case (action) to the respective company area based on model predictions.
+
       - layout: left
         title: Sicredi
         sub_title: Data Scientist
