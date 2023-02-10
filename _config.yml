@@ -74,7 +74,7 @@ content:
             url: https://github.com/DougTrajano/anallyticabot
         quote: >
           Data App with advanced analytics to improve the quality of chatbots.
-        description: | # this will include new lines to allow paragraphs
+        description: |
           **Anallyticabot** is a platform that provides advanced analytics to help you improve your chatbot.
 
           Identify and improve your virtual assistant's experiences easily and quickly.
@@ -91,24 +91,15 @@ content:
         link: www.hp.com.br
         quote: >
           Technology
-        description: | # this will include new lines to allow paragraphs
-          Work on all aspects of the design, development, and delivery of data science and analytics projects to solve complex business problems and drive product strategies.
-          
-          - Developed and supported NLP models in the production environment.
-          - Redesigned data pipelines to support proactive data ingestion, introduce data observability and reduce costs (>90% cost reduction).
-          - Developed a DS/ML platform powered by Kubernetes and Istio, where I led the development and integration of the ML components such as JupyterLab, Apache Spark, MLflow, Boxkite, MinIO, Grafana, Redash, etc.
+        description: |
+          Work on all aspects of the design, development, and delivery of data science, data engineering, and analytics solutions to solve complex business problems and drive product strategies. Work closely with product managers, engineers, and business stakeholders to understand their needs and translate them into data-driven solutions. Provide technical leadership and mentorship to junior team members.
 
-      - layout: left
-        title: Cognitivo.ai
-        sub_title: Expert Data Scientist
-        caption: August 2020 - present
-        link: www.cognitivo.ai
-        quote: >
-          Technology
-        description: | # this will include new lines to allow paragraphs
-          Project-based work to develop and support machine learning enabled solutions for companies in different markets and contexts.
-          
-          - Developed an NLP Pipeline that classifies legal actions into predefined categories, and adds them to the customer CRM (Salesforce) assigning each case (action) to the respective company area based on model predictions.
+          Highlights:
+
+          - Development of NLP models for text classification and sentiment analysis in HP Gaming division.
+          - Redesigned data pipelines to support proactive data ingestion, introduce data quality checks, and reduce costs (>90% cost reduction).
+          - Developed a DS/ML platform powered by Kubernetes and Istio, where I was responsible for leading the development and integration of ML tools such as JupyterLab, Apache Spark, MLflow, Boxkite, MinIO, Grafana, Redash, etc.
+          - Led external research projects in partnership with universities and research institutes such as Purdue University, SENAI CIMATEC, Instituto Atlãntico, and others.
 
       - layout: left
         title: Sicredi
@@ -117,8 +108,28 @@ content:
         link: www.sicredi.com.br
         quote: >
           Financial Services
-        description: | # this will include new lines to allow paragraphs
-          Design, development and delivery machine learning enabled solutions for customer service and conversational channels.
+        description: |
+          Development of data science solutions for customer service in conversational channels such as WhatsApp and WebChat, working throughout the entire life cycle (design, development, deployment, and support).
+
+          Highlights:
+
+          - Developed an NLP Pipeline for automatic selection of relevant questions and clusterization of them to be used as training data for chatbot’s models.
+          - Developed a Learning to Rank model to suggest relevant intents for the welcome message of the virtual assistant based on the customer’s profile.
+          - Worked with other data scientists to develop a methodology and tools to democratize data science inside Sicredi. Specifically, I wrote a Python library to better integrate our models with the MLOps tools used by the company.
+          - Developed a web application that generates advanced reports about the performance of the chatbot’s models, using techniques like cross-validation and integrations with MongoDB and APIs, etc.
+
+      - layout: left
+        title: Cognitivo.ai
+        sub_title: Expert Data Scientist
+        caption: August 2020 - present
+        link: www.cognitivo.ai
+        quote: >
+          Technology
+        description: |
+          Project-based work to develop and support machine learning enabled solutions for companies in different markets and contexts.
+          
+          - Developed an NLP Pipeline that classifies legal actions into predefined categories, and adds them to the customer CRM (Salesforce) assigning each case (action) to the respective company area based on model predictions.
+
       - layout: left
         title: Tivit
         sub_title: IT Process Analyst
@@ -127,7 +138,15 @@ content:
         quote: >
           Technology
         description: | # this will include new lines to allow paragraphs
-          Chatbot developer contracted to Sicredi project. Implementation of conversational flows and Python scripts to improve the quality of the chatbot.
+          Chatbot developer contracted to Sicredi project. Development of intents, entities, and conversational flows in IBM Watson Assistant. 
+
+          Highlights:
+
+          - Developed conversational flows for financial products like credit, account bank, credit recovery, etc. Including integration with internal systems to provide transactional information to the customer.
+          - Developed Python Scripts for data processing and data analysis. Developed scripts to evaluate the metrics of the chatbot and suggest improvements to reduce the number of conflicts in the chatbot intents.
+          - Advocated for the use of artificial intelligence in the company, providing technical training and explaining the benefits and disadvantages of the technology.
+          - Helped to define the content process used by the team.
+
       - layout: left
         title: Dell
         sub_title: IT Tech Support Specialist
@@ -136,14 +155,30 @@ content:
         quote: >
           Technology
         description: | # this will include new lines to allow paragraphs
-          Development and management of Sprinklr (Social CRM) for Dell's social media teams located in Latin America (Brazil, Costa Rica and Panama).
+          As a Tech Support Specialist, I was responsible for managing service queues and workflows using Sprinklr, a Social CRM tool, for social media teams distributed in Latin America (Brazil, Costa Rica, and Panama). I also developed dashboards and reports for executives and managers, keeping them informed about the performance of the teams.
+
+          Highlights:
+
+          - Provided technical support for Dell products on social media (Facebook, Twitter, etc.).
+          - Created and maintained knowledge base articles for troubleshooting issues and providing solutions.
+          - Developed Analytics Reports and Dashboards for executives and managers for better decision-making.
+          - Developed Dell's chatbot (Tell) for social media teams in Brazil and Costa Rica.
+          - Created automated workflows in Sprinklr to distribute and escalate incidents across global teams.
+          
       - layout: left
         #title: Dell
         sub_title: IT Tech Support Associate
         caption: July 2012 - March 2015
         link: www.dell.com
         description: | # this will include new lines to allow paragraphs
-          Technical support for Dell products, customer care for executive escalations with high exposure of the brand image.
+          As a Tech Support Associate, I provide technical support and customer care for Dell products, working on executive escalations of complex issues and sensitive cases to Dell’s brand image. I also worked throughout the refund and exchange process for Dell products.
+
+          Highlights:
+
+          - Provided technical support via phone and email for Dell products (notebooks, desktops, tablets, etc.).
+          - Automated routine tasks in the tech support team (rewarded with a bronze award).
+          - Maintained the high standards of quality and productivity set by the Dell support team.
+          - Managed refund and exchange process for Dell products.
 
   - title: Education
     layout: list
