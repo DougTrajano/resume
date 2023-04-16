@@ -5,7 +5,7 @@
 
 [View Demo](https://sproogen.github.io/modern-resume-theme/)
 
-----
+---
 
 ## Announcements
 
