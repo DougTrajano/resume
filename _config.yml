@@ -86,7 +86,7 @@ content:
     content:
       - layout: left
         title: HP Inc.
-        sub_title: Data Scientist Specialist
+        sub_title: Lead Data Scientist
         caption: April 2021 - present
         link: www.hp.com.br
         quote: >
@@ -113,7 +113,7 @@ content:
 
           Highlights:
 
-          - Developed an NLP Pipeline for automatic selection of relevant questions and clusterization of them to be used as training data for chatbot’s models.
+          - Developed an Intent Recommendation NLP Pipeline that filters relevant messages and clusters them into new intents, enabling developers to create new intents without the need to manually label the data.
           - Developed a Learning to Rank model to suggest relevant intents for the welcome message of the virtual assistant based on the customer’s profile.
           - Worked with other data scientists to develop a methodology and tools to democratize data science inside Sicredi. Specifically, I wrote a Python library to better integrate our models with the MLOps tools used by the company.
           - Developed a web application that generates advanced reports about the performance of the chatbot’s models, using techniques like cross-validation and integrations with MongoDB and APIs, etc.
