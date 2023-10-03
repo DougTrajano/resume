@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Douglas Trajano
-title: Data Scientist
+title: Lead Data Scientist
 email: douglas.trajano@outlook.com
 # email_title: Email (Email title override)
 phone: +55 51 98198-8339
@@ -64,14 +64,10 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Anallyticabot
-        link: https://share.streamlit.io/dougtrajano/anallyticabot/anallyticabot.py
-        link_text: Anallyticabot Streamlit
-        additional_links:
-          - title: DougTrajano/anallyticabot
-            icon: fab fa-github
-            url: https://github.com/DougTrajano/anallyticabot
+      - title: Anallyticabot
+        link: https://github.com/DougTrajano/anallyticabot
+        link_text: Anallyticabot GitHub
+        layout: left
         quote: >
           Data App with advanced analytics to improve the quality of chatbots.
         description: |
@@ -81,16 +77,35 @@ content:
     
           Anallyticabot is free to use and is an open-source project!
 
+      - title: ToChiquinho
+        link: https://github.com/DougTrajano/ToChiquinho
+        link_text: ToChiquinho GitHub
+        layout: left
+        quote: >
+          A toxicity detection system based on OLID-BR.
+        description: |
+          **ToChiquinho** is a toxicity detection system based on OLID-BR, a dataset for Offensive Language Identification in Brazilian Portuguese.
+
+          The system is composed of 5 models, each one specialized in a different task in hate speech domain.
+
   - title: Experience
     layout: list
     content:
       - layout: left
+        title: Sicredi
+        sub_title: Specialist Data Scientist
+        caption: May 2023 - Present
+        link: www.sicredi.com.br
+        quote: Financial Services
+        description: |
+          Work on
+
+      - layout: left
         title: HP Inc.
-        sub_title: Lead Data Scientist
-        caption: April 2021 - present
-        link: www.hp.com.br
-        quote: >
-          Technology
+        sub_title: Specialist Data Scientist
+        caption: April 2021 - May 2023
+        link: www.hp.com
+        quote: Technology
         description: |
           Work on all aspects of the design, development, and delivery of data science, data engineering, and analytics solutions to solve complex business problems and drive product strategies. Work closely with product managers, engineers, and business stakeholders to understand their needs and translate them into data-driven solutions. Provide technical leadership and mentorship to junior team members.
 
@@ -106,8 +121,7 @@ content:
         sub_title: Data Scientist
         caption: January 2019 - April 2021
         link: www.sicredi.com.br
-        quote: >
-          Financial Services
+        quote: Financial Services
         description: |
           Development of data science solutions for customer service in conversational channels such as WhatsApp and WebChat, working throughout the entire life cycle (design, development, deployment, and support).
 
@@ -123,8 +137,7 @@ content:
         sub_title: Expert Data Scientist
         caption: August 2020 - present
         link: www.cognitivo.ai
-        quote: >
-          Technology
+        quote: Technology
         description: |
           Project-based work to develop and support machine learning enabled solutions for companies in different markets and contexts.
           
@@ -135,8 +148,7 @@ content:
         sub_title: IT Process Analyst
         caption: July 2018 - January 2019
         link: www.tivit.com.br
-        quote: >
-          Technology
+        quote: Technology
         description: | # this will include new lines to allow paragraphs
           Chatbot developer contracted to Sicredi project. Development of intents, entities, and conversational flows in IBM Watson Assistant. 
 
@@ -151,9 +163,8 @@ content:
         title: Dell
         sub_title: IT Tech Support Specialist
         caption: April 2015 - July 2018
-        #link: www.dell.com
-        quote: >
-          Technology
+        link: www.dell.com
+        quote: Technology
         description: | # this will include new lines to allow paragraphs
           As a Tech Support Specialist, I was responsible for managing service queues and workflows using Sprinklr, a Social CRM tool, for social media teams distributed in Latin America (Brazil, Costa Rica, and Panama). I also developed dashboards and reports for executives and managers, keeping them informed about the performance of the teams.
 
@@ -166,10 +177,10 @@ content:
           - Created automated workflows in Sprinklr to distribute and escalate incidents across global teams.
           
       - layout: left
-        #title: Dell
+        # title: Dell
         sub_title: IT Tech Support Associate
         caption: July 2012 - March 2015
-        link: www.dell.com
+        # link: www.dell.com
         description: | # this will include new lines to allow paragraphs
           As a Tech Support Associate, I provide technical support and customer care for Dell products, working on executive escalations of complex issues and sensitive cases to Dell’s brand image. I also worked throughout the refund and exchange process for Dell products.
 
@@ -260,8 +271,9 @@ content:
   - title: Certifications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Microsoft Certified: Azure Data Scientist Associate <mark>Azure Cloud</mark>
       - AWS Certified Machine Learning - Specialty <mark>AWS</mark>
+      - Microsoft Certified: Azure Data Scientist Associate <mark>Azure Cloud</mark>
+      - Databricks Certified Machine Learning Professional <mark>Databricks</mark>
       - Certified Associate in Project Management (CAPM)® <mark>PMI</mark>
       - ITIL® Foundation Certificate in IT Service Management <mark>EXIN</mark>
       - MCP (70-687) - Configuring Windows 8.1 <mark>Microsoft</mark>
