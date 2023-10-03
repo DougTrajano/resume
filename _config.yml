@@ -257,24 +257,14 @@ content:
       - Data Science Math Skills - [Duke University](https://duke.edu/) <mark>Coursera</mark>
       - Creative Thinking: Techniques and Tools for Success - [Imperial College London](https://www.imperial.ac.uk/) <mark>Coursera</mark>
       - Successful Negotiation: Essential Strategies and Skills - [University of Michigan](https://umich.edu/) <mark>Coursera</mark>
-      - eXtreme Programming (XP) <mark>TreinaWeb</mark>
-      - Design Thinking <mark>TreinaWeb</mark>
-      - Tableau for Data Scientists <mark>Udemy</mark>
-      - Power BI <mark>Udemy</mark>
-      - Python for Data Science and Machine Learning <mark>Udemy</mark>
-      - REST APIs with Python and Flask <mark>Udemy</mark>
-      - MongoDB Developer <mark>TreinaWeb</mark>
-      - MySQL DBA <mark>TreinaWeb</mark>
-      - MySQL Developer <mark>TreinaWeb</mark>
-      - Oracle Developer <mark>TreinaWeb</mark>
-
+      
   - title: Certifications
     layout: text
     content: | # this will include new lines to allow paragraphs
       - AWS Certified Machine Learning - Specialty <mark>AWS</mark>
       - Microsoft Certified: Azure Data Scientist Associate <mark>Azure Cloud</mark>
       - Databricks Certified Machine Learning Professional <mark>Databricks</mark>
-      - Certified Associate in Project Management (CAPM)® <mark>PMI</mark>
+      - Certified Associate in Project Management (CAPM)® <mark>PMI</mark> (expired)
       - ITIL® Foundation Certificate in IT Service Management <mark>EXIN</mark>
       - MCP (70-687) - Configuring Windows 8.1 <mark>Microsoft</mark>
       - Social Media and Community (SMaC) Certification <mark>Dell</mark>
