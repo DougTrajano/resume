@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Douglas Trajano
-title: Lead Data Scientist
+title: Sr Lead Data Scientist
 email: douglas.trajano@outlook.com
 # email_title: Email (Email title override)
 phone: +55 51 98198-8339
@@ -92,13 +92,30 @@ content:
     layout: list
     content:
       - layout: left
+        title: ADP
+        sub_title: Sr Lead Data Scientist
+        caption: April 2024 - Presente
+        link: www.adp.com
+        quote: Technology
+        description: |
+          Leading the design, development, code review, and technical mentorship of AI/ML solutions for the OneAI team at ADP, collaborating with product and engineering teams to drive strategic initiatives across ADP’s key products, including DataCloud, Workforce Now, and Lyric.
+
+          - I develop ADP Assist for Analytics, a conversational experience within ADP's products that leverages GenAI to provide users with insightful and accurate analytics based on their HR data. It was recognized with the Generative AI Innovation Award in the 2024 AI Breakthrough Awards.
+          - Developed a serverless search engine for ADP Reporting combining Amazon OpenSearch Service and Language Models to perform hybrid search and enhance the search capabilities of fields and filters when creating reports.
+
+      - layout: left
         title: Sicredi
         sub_title: Specialist Data Scientist
-        caption: May 2023 - Present
+        caption: May 2023 - April 2024
         link: www.sicredi.com.br
         quote: Financial Services
         description: |
-          Work on
+          Work on all aspects of the design, development, and delivery of data science and analytics solutions to solve complex business problems and drive product strategies. Provide technical leadership and mentorship to less experienced team members.
+
+          - Developed a Text Clustering System that processes 2,3M messages monthly, accelerating the chatbot development by 30% by showing the most relevant unanswered topics.
+          - Authored an Automatic Speech Recognition (ASR) pipeline, powered by OpenAI Whisper Large V3, that transcribes up to 70k customer service calls monthly enriched with emotion recognition, speaker identification, and automated quality monitoring.
+          - Developed GenAI applications powered by LangChain and Databricks MLflow to generate synthetic datasets, make classifications using Zero and Few-Shot Learning and summarize text data.
+          - Developed a Multi-Class Text Classifier that identifies users trying to force a human transfer and helps the chatbot act accordingly, improving the retention rate by 2.24%.
 
       - layout: left
         title: HP Inc.
@@ -107,14 +124,12 @@ content:
         link: www.hp.com
         quote: Technology
         description: |
-          Work on all aspects of the design, development, and delivery of data science, data engineering, and analytics solutions to solve complex business problems and drive product strategies. Work closely with product managers, engineers, and business stakeholders to understand their needs and translate them into data-driven solutions. Provide technical leadership and mentorship to junior team members.
+          Led a data team of 10+ data engineers and data analysts, responsible for the data of OMEN Gaming Hub, a software that provides a unified gaming experience for HP customers. Directly responsible for the development of machine learning models used by HP gaming apps.
 
-          Highlights:
-
-          - Development of NLP models for text classification and sentiment analysis in HP Gaming division.
-          - Redesigned data pipelines to support proactive data ingestion, introduce data quality checks, and reduce costs (>90% cost reduction).
-          - Developed a DS/ML platform powered by Kubernetes and Istio, where I was responsible for leading the development and integration of ML tools such as JupyterLab, Apache Spark, MLflow, Boxkite, MinIO, Grafana, Redash, etc.
-          - Led external research projects in partnership with universities and research institutes such as Purdue University, SENAI CIMATEC, Instituto Atlãntico, and others.
+          - Supported a toxicity detection system to ensure health usernames in OMEN Gaming Hub, with approximately 50k predictions per month.
+          - Redesigned data pipelines to support near real-time ingestion, introduced data quality checks and reduced compute costs by +90%.
+          - Developed a hybrid DS/ML platform for on-premises and cloud clusters powered by Kubernetes and Istio, leveraging tools such as JupyterHub, Apache Spark, MLflow, Boxkite, MinIO, Grafana, Redash, etc.
+          - Led external research projects in partnership with universities and research institutes such as Purdue University, SENAI CIMATEC, Instituto Atlantico, and others.
 
       - layout: left
         title: Sicredi
